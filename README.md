@@ -17,4 +17,4 @@ This project analyzes the **Data Professional Survey**, exploring industry trend
 ![Dashboard Screenshot](screenshots/dashboard.png)  
 
 ## 🔗 Project File
-[Download Power BI File (.pbix)](your_project.pbix)  
+[Download Power BI File (.pbix)](https://github.com/gouravdhalwal08/PowerBI-Data-Analysis/blob/main/Power%20BI%20Project.pbix)  
