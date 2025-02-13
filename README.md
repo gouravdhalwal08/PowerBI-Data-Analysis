@@ -14,7 +14,7 @@ This project analyzes the **Data Professional Survey**, exploring industry trend
 - SQL (Data Preprocessing)  
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)  
+![Dashboard Screenshot](https://github.com/gouravdhalwal08/PowerBI-Data-Analysis/blob/main/Data%20Professional%20Survey.png)  
 
 ## 🔗 Project File
 [Download Power BI File (.pbix)](https://github.com/gouravdhalwal08/PowerBI-Data-Analysis/blob/main/Power%20BI%20Project.pbix)  
